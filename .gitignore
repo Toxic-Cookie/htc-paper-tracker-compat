@@ -1,0 +1,13 @@
+# HTC SRanipal SDK / installer (proprietary, large) - not redistributed
+SDK/
+SDK.zip
+*.msi
+
+# Local notes
+paper_tracker_install_dir.txt
+
+# Build output
+bridge/out/
+*.obj
+*.pdb
+*.ilk
